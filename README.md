@@ -1,48 +1,17 @@
-Hextris
-==========
+Hextris by DJ DK
+=======
 
-<img src="images/twitter-opengraph.png" width="100px"><br>
-
-An addictive puzzle game inspired by Tetris. Play it at [www.hextris.io](http://www.hextris.io), or [https://hextris.github.io/hextris](https://hextris.github.io/hextris).
 
 By:
- - Dwijottam Dutta ([@lengstrom](https://github.com/Dwijottam-Dutta))
- - Dharmesh Kumar ([@garrettdreyfus](https://github.com/dharmeshkumar1409))
- 
- ## Citation
-Did you use Hextris in your research? Cite us as follows:
-```
-  @misc{engstrom2015hextris,
-    author = {Dwijottam Dutta, Dharmesh Kumar},
-    title = {hextris},
-    year = {2015},
-    howpublished = {\url{https://github.com/hextris/hextris/}},
-    note = {commit xxxxxxx}
-  }
-```
+ - Dwijottam Dutta ([@dwijottam](https://github.com/Dwijottam-Dutta))
+ - Dharmesh Kumar ([@dharmesh](https://github.com/dharmeshkumar1409))
 
 
 # Contributions
-This project is not very actively maintained, as we are all very busy these days. But feel free to open an issue or PR, and we'll eventually take a look.
+> This project is not very actively maintained, as we are all very busy these days. But feel free to open an issue or PR, and we'll eventually take a look.
 
 # About
-Hextris was created by a group of high school friends in 2014.
-
-## Press kit
-http://hextris.github.io/presskit/info.html
+> Hextris by DJ DK is an inspired project of Hextris
 
 ## License
-Copyright (C) 2018 Logan Engstrom
-
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program.  If not, see <https://www.gnu.org/licenses/>.
+> In LICENCE.md
