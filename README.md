@@ -1,6 +1,9 @@
 Hextris by DJ DK
 =======
 
+<img src="images/images/DJ_DK Hextris Logo.png" width="100px"><br>
+
+An addictive puzzle game inspired by Tetris. Play it at [https://dj-dk.github.io/Hextris/](https://dj-dk.github.io/Hextris/).
 
 By:
  - Dwijottam Dutta ([@dwijottam](https://github.com/Dwijottam-Dutta))
