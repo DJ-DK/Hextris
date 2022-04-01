@@ -6,16 +6,14 @@ Hextris
 An addictive puzzle game inspired by Tetris. Play it at [www.hextris.io](http://www.hextris.io), or [https://hextris.github.io/hextris](https://hextris.github.io/hextris).
 
 By:
- - Logan Engstrom ([@lengstrom](http://loganengstrom.com/))
- - Garrett Finucane ([@garrettdreyfus](http://github.com/garrettdreyfus))
- - Noah Moroze ([@nmoroze](http://github.com/nmoroze))
- - Michael Yang ([@themichaelyang](http://github.com/themichaelyang))
+ - Dwijottam Dutta ([@lengstrom](https://github.com/Dwijottam-Dutta))
+ - Dharmesh Kumar ([@garrettdreyfus](https://github.com/dharmeshkumar1409))
  
  ## Citation
 Did you use Hextris in your research? Cite us as follows:
 ```
   @misc{engstrom2015hextris,
-    author = {Logan Engstrom, Garrett Finucane, Noah Moroze, Michael Yang},
+    author = {Dwijottam Dutta, Dharmesh Kumar},
     title = {hextris},
     year = {2015},
     howpublished = {\url{https://github.com/hextris/hextris/}},
